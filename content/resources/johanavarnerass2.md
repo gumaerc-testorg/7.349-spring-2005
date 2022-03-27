@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d94c4372-d364-6d70-dec3-dbddaf026d53
 resourcetype: Document
 title: johanavarnerass2.pdf
 uid: 01b00bb5-3175-fb3e-31ad-a2220335e571

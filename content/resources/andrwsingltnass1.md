@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d94c4372-d364-6d70-dec3-dbddaf026d53
 resourcetype: Document
 title: andrwsingltnass1.pdf
 uid: ce6f87ba-38f5-0c20-0185-8a9412ecdc86
