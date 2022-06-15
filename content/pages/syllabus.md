@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus section contains summery, course format, assignment information,
+  attendence and grading criteria.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
