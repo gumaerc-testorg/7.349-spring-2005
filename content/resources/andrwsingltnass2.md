@@ -5,6 +5,7 @@ file: /courses/7-349-biological-computing-at-the-crossroads-of-engineering-and-s
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: andrwsingltnass2.pdf
 uid: 9cadaaf0-c15f-f106-5f6f-8ca7f56adfbb
 ---
 This resource includes drafts of the assignments submitted by the student.
-

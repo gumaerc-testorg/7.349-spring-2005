@@ -6,6 +6,7 @@ file: /courses/7-349-biological-computing-at-the-crossroads-of-engineering-and-s
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: pres_kate.pdf
 uid: 6b0af1af-ace1-277c-f307-35a2ed9a1313
 ---
 This resource includes information on protien structure prediction methods,protien design, and a totaly artificial protien.
-

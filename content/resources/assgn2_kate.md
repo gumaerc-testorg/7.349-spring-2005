@@ -6,6 +6,7 @@ file: /courses/7-349-biological-computing-at-the-crossroads-of-engineering-and-s
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: assgn2_kate.pdf
 uid: 1ef2c61c-0fde-d3e6-7d4d-9b3256ffadd2
 ---
 This rsource includes information on exploration on bacterial qourum sensing, and microbial digital sensing.
-

@@ -5,6 +5,7 @@ file: /courses/7-349-biological-computing-at-the-crossroads-of-engineering-and-s
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: johanavarnerass1.pdf
 uid: ddeca73b-54b9-14e3-9282-3322106abc94
 ---
 This reaource includes a draft of the assigment created by the student.
-

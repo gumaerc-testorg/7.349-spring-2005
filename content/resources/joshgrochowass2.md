@@ -6,6 +6,7 @@ file: /courses/7-349-biological-computing-at-the-crossroads-of-engineering-and-s
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: joshgrochowass2.pdf
 uid: f52ec826-2721-cdc5-3744-5e62af362283
 ---
 This resource includes information on the methid used, the primer selection, the touchdown PCR and its application and limitations.
-

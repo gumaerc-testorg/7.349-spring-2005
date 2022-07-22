@@ -6,6 +6,7 @@ file: /courses/7-349-biological-computing-at-the-crossroads-of-engineering-and-s
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lizziehagerass2.pdf
 uid: 397a1745-fc98-080a-a6f9-0637552f43a9
 ---
 This resource includes detailed information on the assignment submitted by the student.
-

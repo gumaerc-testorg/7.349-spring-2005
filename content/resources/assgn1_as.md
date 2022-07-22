@@ -6,6 +6,7 @@ file: /courses/7-349-biological-computing-at-the-crossroads-of-engineering-and-s
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: assgn1_as.pdf
 uid: b6070d48-ec7f-9ab6-c903-65c43c6e8588
 ---
 This resource includes a draft of the assignment created by the student on DNA molecules.
-

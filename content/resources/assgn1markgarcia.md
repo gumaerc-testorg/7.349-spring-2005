@@ -6,6 +6,7 @@ file: /courses/7-349-biological-computing-at-the-crossroads-of-engineering-and-s
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: assgn1markgarcia.pdf
 uid: ebe6cdd2-bd52-2219-231e-0a369e823ad5
 ---
 This resource includes the abstract of the assignment submitted by the student.
-
