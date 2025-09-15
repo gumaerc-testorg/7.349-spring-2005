@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This reaource includes a draft of the assigment created by the student.
-file: /courses/7-349-biological-computing-at-the-crossroads-of-engineering-and-science-spring-2005/ddeca73b54b914e392823322106abc94_johanavarnerass1.pdf
+file: /ol-ocw-studio-app/courses/7-349-biological-computing-at-the-crossroads-of-engineering-and-science-spring-2005/ddeca73b54b914e392823322106abc94_johanavarnerass1.pdf
+file_size: 285250
 file_type: application/pdf
 learning_resource_types:
 - Assignments

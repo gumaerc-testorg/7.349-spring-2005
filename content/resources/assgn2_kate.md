@@ -2,7 +2,8 @@
 content_type: resource
 description: This rsource includes information on exploration on bacterial qourum
   sensing, and microbial digital sensing.
-file: /courses/7-349-biological-computing-at-the-crossroads-of-engineering-and-science-spring-2005/1ef2c61c0fded3e67d4d9b3256ffadd2_assgn2_kate.pdf
+file: /ol-ocw-studio-app/courses/7-349-biological-computing-at-the-crossroads-of-engineering-and-science-spring-2005/1ef2c61c0fded3e67d4d9b3256ffadd2_assgn2_kate.pdf
+file_size: 1171114
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/7-349-biological-computing-at-the-crossroads-of-engineering-and-science-spring-2005/01b00bb53175fb3e31ada2220335e571_johanavarnerass2.pdf
+file: /ol-ocw-studio-app/courses/7-349-biological-computing-at-the-crossroads-of-engineering-and-science-spring-2005/01b00bb53175fb3e31ada2220335e571_johanavarnerass2.pdf
+file_size: 796625
 file_type: application/pdf
 learning_resource_types:
 - Assignments

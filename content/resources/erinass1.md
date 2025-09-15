@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource includes the drafts of the assignmets submitted by the
   student.
-file: /courses/7-349-biological-computing-at-the-crossroads-of-engineering-and-science-spring-2005/e6f939ca0f959f8a744aa8bdb3c233e2_erinass1.pdf
+file: /ol-ocw-studio-app/courses/7-349-biological-computing-at-the-crossroads-of-engineering-and-science-spring-2005/e6f939ca0f959f8a744aa8bdb3c233e2_erinass1.pdf
+file_size: 128218
 file_type: application/pdf
 learning_resource_types:
 - Assignments

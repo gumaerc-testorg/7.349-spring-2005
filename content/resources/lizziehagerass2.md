@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource includes detailed information on the assignment submitted
   by the student.
-file: /courses/7-349-biological-computing-at-the-crossroads-of-engineering-and-science-spring-2005/397a1745fc98080aa6f90637552f43a9_lizziehagerass2.pdf
+file: /ol-ocw-studio-app/courses/7-349-biological-computing-at-the-crossroads-of-engineering-and-science-spring-2005/397a1745fc98080aa6f90637552f43a9_lizziehagerass2.pdf
+file_size: 740537
 file_type: application/pdf
 learning_resource_types:
 - Assignments
